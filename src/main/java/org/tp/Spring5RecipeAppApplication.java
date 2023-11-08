@@ -1,4 +1,4 @@
-package org.tp.spring5recipeapp;
+package org.tp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
